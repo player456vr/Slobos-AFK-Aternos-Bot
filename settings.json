@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SquidAFK690423578",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Player456vr-jxcB.aternos.me",
+    "ip": "TheSquidMC.aternos.me:25574",
     "port": 25574,
     "version": "",
     "try-creative": false
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Player456vr!",
         "I like to play Minecraft!"
       ]
     },
