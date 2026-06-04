@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheSquidMC.aternos.me:25574",
+    "ip": "TheSquidMC.aternos.me",
     "port": 25574,
     "version": "",
     "try-creative": false
