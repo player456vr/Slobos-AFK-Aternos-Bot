@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheSquidMC.aternos.me:25574",
+    "port": 25574,
     "version": "",
     "try-creative": false
   },
